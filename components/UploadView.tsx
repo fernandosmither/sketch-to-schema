@@ -193,8 +193,8 @@ const UploadView: React.FC<UploadViewProps> = ({ onSchemaGenerated, apiKey, onAp
   }
 
   return (
-    <div className="flex flex-col items-center justify-center h-full bg-zinc-950 p-6 overflow-y-auto">
-      <div className="max-w-3xl w-full text-center space-y-12">
+    <div className="flex flex-col items-center h-full bg-zinc-950 p-6 overflow-y-auto">
+      <div className="max-w-3xl w-full text-center space-y-12 my-auto py-8">
         <div className="space-y-4">
           <h1 className="text-5xl font-bold tracking-tight text-white bg-clip-text text-transparent bg-gradient-to-r from-white to-zinc-400">
             Sketch to Schema
