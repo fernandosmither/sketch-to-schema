@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Sketch to Schema",
+  "description": "Convert whiteboard database sketches into executable SQL schemas using Gemini Vision. Features a visual editor and interactive ER diagram.",
+  "requestFramePermissions": []
+}
